@@ -1,6 +1,14 @@
 {
 	"author": "Grayman1 Joe Fielding Jr",
 	"description": "A project by Grayman1 that satisfies challenges for FCC 'Managing Packages with NPM' module",
+	"keywords": [
+		"freecodecamp",
+		"challenges",
+		"backend",
+		"descriptive",
+		"related",
+		"words"
+	],
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
 		"express": "^4.14.0"
