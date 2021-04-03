@@ -1,6 +1,8 @@
 {
 	"author": "Grayman1 Joe Fielding Jr",
 	"description": "A project by Grayman1 that satisfies challenges for FCC 'Managing Packages with NPM' module",
+	"license": "GNU GPLv3",
+	"version": "1.0.0",
 	"keywords": [
 		"freecodecamp",
 		"challenges",
